@@ -1,2 +1,2 @@
 Usage:
-```python3 scrapeImages.py --search "cat" --num_images 10 --directory "/Users/username/Downloads"```
+```python3 fastDownload.py --search "cat" --num_images 10 --directory "/Users/username/Downloads"```
