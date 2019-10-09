@@ -4,6 +4,6 @@
 
 WORK IN PROGRESS
 ### Contents
-[DatasetScraper](https://github.com/ishank-dev/MyPythonScripts/tree/master/DataScraper)
-[Google Maps](https://github.com/ishank-dev/MyPythonScripts/tree/master/Google%20Maps)
-[Automated Email](https://github.com/ishank-dev/MyPythonScripts/tree/master/emailSpammer)
+- [DatasetScraper](https://github.com/ishank-dev/MyPythonScripts/tree/master/DataScraper)<br>
+- [Google Maps](https://github.com/ishank-dev/MyPythonScripts/tree/master/Google%20Maps)<br>
+- [Automated Email](https://github.com/ishank-dev/MyPythonScripts/tree/master/emailSpammer)<br>
